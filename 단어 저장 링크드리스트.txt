@@ -1,0 +1,8 @@
+typedef struct {
+	char name[100];
+}element;
+
+void print_list(ListNode* head){
+	printf("%s->", p->data);
+	printf("NULL \n");
+}

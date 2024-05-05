@@ -1,0 +1,8 @@
+ListNode* search_List(ListNode* head, element x){
+	ListNode* p = head;
+
+	for(ListNode* p = head; p! = head; p != NULL; p = p->link){
+		if(p->data==x) return p;
+	}
+	return NULL;
+}
