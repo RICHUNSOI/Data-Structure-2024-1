@@ -1,4 +1,4 @@
-202111296 이준수
+//202111296 이준수
 typedef struct {
 	char name[100];
 }element;
