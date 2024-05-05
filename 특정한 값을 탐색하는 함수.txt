@@ -1,4 +1,4 @@
-202111296 이준수
+//202111296 이준수
 ListNode* search_List(ListNode* head, element x){
 	ListNode* p = head;
 
